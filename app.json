@@ -1,0 +1,35 @@
+{
+    "name": "link-Bypass-Bot",
+    "description": "A bot that bypass shorted links and gives direct links to user.",
+    "repository": "https://github.com/GreatBots/Link-Bypasser-Bot",
+    "keywords": [
+       
+        "telegram bot",
+        "pyrogram"
+
+    ],
+    "env": {
+        "API_ID": {
+            "description": "Get this value from my.telegram.org",
+            "value": ""
+        },
+        "API_HASH": {
+            "description": "Get this value from my.telegram.org",
+            "value": ""
+        },
+        "BOT_TOKEN": {
+            "description": "ID of the message to edit.",
+            "value": ""
+        }
+    },
+    "buildpacks": [
+    {
+      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+    },
+    {
+      "url": "heroku/python"
+        }
+    ]
+}
+
+     
