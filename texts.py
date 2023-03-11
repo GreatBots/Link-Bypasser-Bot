@@ -1,4 +1,5 @@
-gdrivetext = """__- appdrive.info \n\
+gdrivetext = """**Supported Sites:**\n\n
+- appdrive.info** \n\
 - driveapp.in \n\
 - drivehub.in \n\
 - gdflix.top \n\
@@ -7,10 +8,11 @@ gdrivetext = """__- appdrive.info \n\
 - drivelinks.in \n\
 - driveace.in \n\
 - drivepro.in \n\
-          __"""
+            """
 
 
-otherstext = """__- exe.io/exey.io \n\
+otherstext = """**Supported Sites:**\n\n
+- exe.io/exey.io \n\
 - sub2unlock.net/sub2unlock.com \n\
 - rekonise.com \n\
 - letsboost.net \n\
@@ -25,10 +27,11 @@ otherstext = """__- exe.io/exey.io \n\
 - shrto.ml \n\
 - t.co \n\
 - tinyurl.com
-    __"""
+      """
 
 
-ddltext = """__- disk.yandex.com \n\
+ddltext = """**Supported Sites:**\n\n
+- disk.yandex.com \n\
 - mediafire.com \n\
 - uptobox.com \n\
 - osdn.net \n\
@@ -54,10 +57,11 @@ ddltext = """__- disk.yandex.com \n\
 - megaup.net \n\
 - fembed.net, fembed.com, femax20.com, fcdn.stream, feurl.com, layarkacaxxi.icu, naniplay.nanime.in, naniplay.nanime.biz, naniplay.com, mm9842.com \n\
 - sbembed.com, watchsb.com, streamsb.net, sbplay.org
-    __"""
+      """
 
 
-shortnertext = """__- igg-games.com \n\
+shortnertext = """**Supported Sites**\n\n
+- igg-games.com \n\
 - olamovies.ink \n\
 - katdrive.net \n\
 - drivefire.co \n\
@@ -92,11 +96,12 @@ shortnertext = """__- igg-games.com \n\
 - toonworld4all.me \n\
 - animeremux.xyz \n\
 - adrinolinks.in \n\
-__"""
+  """
 
 
-HELP_TEXT = f'**--Just Send me any Supported Links From Below Mentioned Sites--** \n\n\
-**List of Sites for DDL : ** \n{ddltext} \n\
+HELP_TEXT = f'**Here Is The Instructions:**
+--Just Send me any Supported Links From Below Mentioned Sites-- \n\n\
+**List of Sites for DDL :**  \n{ddltext} \n\
 **List of Sites for Shortners : ** \n{shortnertext} \n\
 **List of Sites for GDrive Look-ALike : ** \n{gdrivetext} \n\
 **Other Supported Sites : ** \n{otherstext} \n\
