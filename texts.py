@@ -99,7 +99,7 @@ shortnertext = """**Supported Sites**\n\n
   """
 
 
-HELP_TEXT = f'**Here Is The Instructions:**
+HELP_TEXT = f'**Here Is The Instructions:**\n\n\
 --Just Send me any Supported Links From Below Mentioned Sites-- \n\n\
 **List of Sites for DDL :**  \n{ddltext} \n\
 **List of Sites for Shortners : ** \n{shortnertext} \n\
