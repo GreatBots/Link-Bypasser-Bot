@@ -19,7 +19,7 @@ app = Client(
     api_hash=os.environ["API_HASH"],
 )
 
-MUST_JOIN = 
+MUST_JOIN = ""
 
 
 # forcesub
